@@ -18,7 +18,7 @@ mysql-vagrant is a quick way to run mysql locally for development without an ssh
 
 ### Warning
 
-for development only, do not use on production.
+For development use only, do not use on production.
 Also, make sure your mysql port (3306) is not open on your computer for a local network or in general.
 
 ### License
